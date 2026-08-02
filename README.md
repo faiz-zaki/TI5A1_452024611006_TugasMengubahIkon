@@ -50,3 +50,17 @@ app/src/main/res/
     ├── ic_launcher.webp             # legacy icon (raster)
     └── ic_launcher_round.webp       # legacy icon round (raster)
 ```
+
+## Screenshot
+
+**Ikon aplikasi (hasil generate Image Asset):**
+
+![Ikon aplikasi](screenshots/icon-launcher.png)
+
+**Aplikasi berjalan di emulator (Android 14):**
+
+![Aplikasi berjalan](screenshots/app-running.png)
+
+**Ikon baru tampil di launcher (app drawer) emulator:**
+
+![Launcher dengan ikon baru](screenshots/launcher-drawer.png)
